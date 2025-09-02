@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hello, I'm Raju Giri Goswami
+# 👋 Hello, I'm Raju Giri
 ### 🚀 Senior Web Developer | React.js Expert | Certified ScrumMaster
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=7%2B+Years+Web+Development;React.js+%26+TypeScript+Expert;Performance+Optimization+Specialist;CSM+Certified+Professional;Available+Immediately)](https://git.io/typing-svg)
